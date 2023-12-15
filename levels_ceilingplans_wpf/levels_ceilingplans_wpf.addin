@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command levels_ceilingplans_wpf</Text>
+    <Description>Some description for levels_ceilingplans_wpf</Description>
+    <Assembly>levels_ceilingplans_wpf.dll</Assembly>
+    <FullClassName>levels_ceilingplans_wpf.Command</FullClassName>
+    <ClientId>87ffa7b6-f89e-45c8-bb3c-1440e65a5199</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application levels_ceilingplans_wpf</Name>
+    <Assembly>levels_ceilingplans_wpf.dll</Assembly>
+    <FullClassName>levels_ceilingplans_wpf.App</FullClassName>
+    <ClientId>1c46fc16-fcd6-4149-846c-72dc6b483037</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
